@@ -1,5 +1,5 @@
 # Robot-to-convert-food-warehouse-into-automated-warehouse
-# Robot Arm Working Envelope – Execution Algorithm
+*Robot Arm Working Envelope – Execution Algorithm*
 
 ## Project: Mechanical Task – Robot Arm Zones
 
